@@ -2,7 +2,7 @@
    
 ## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
 <p align="center">
-<img src="/AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
+<img src="https://i.imgur.com/LV9mpSB.jpeg" alt="Pika" height= "auto" width="auto"/>
 
 
 </p>
@@ -21,7 +21,7 @@
 ### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥
 <p align="center">
 
-<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
+<img src="https://i.imgur.com/LV9mpSB.jpeg">   
 
 ##
 <br>
