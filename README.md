@@ -1,8 +1,8 @@
 <div align="center">
    
-## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
+## Anya 𝖇𝐲 Dev
 <p align="center">
-<img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
+<img src="https://i.imgur.com/LV9mpSB.jpeg" alt="Pika" height= "auto" width="auto"/>
 
 
 </p>
@@ -106,7 +106,7 @@ npm i -g pm2 && pm2 start nexus.js && pm2 save && pm2 logs
 ### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥
 <p align="center">
 
-<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
+<img src="https://i.imgur.com/LV9mpSB.jpeg">   
 
 ##
 <br>
