@@ -18,33 +18,33 @@ global.headerText = "Anya by Pika" // text for header of menu
 
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
-global.ownername = "DevBaloch"   // Owner name //        
+global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
 
-global.ownernumber = ['923461253726'] 
+global.ownernumber = ['916900904828'] 
 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : DevBaloch" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 
 global.ytname = "YT: Ytname"   // Yt chanel name //
 
 global.continent = "Asia" // your continent name 
 
-global.region = "Pakistan" // your country name
+global.region = "India" // your country name
 
-global.state = "Rujhan" // your state name
+global.state = "Assam" // your state name
 
-global.district = "Kashmoor" // your district name
+global.district = "Dibrugarh" // your district name
 
-global.timezone = "Shahwali" // search on google if you don't know the timezone of your country //
+global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 
+global.instagramId = "3.69_pika" // Your insta ID
 
-
-
+global.email = "example@exmaple.com" // put your email here
 
 //------------ 🌟 Premium Users 🌟-------------\\
 
-global.premium = ['923461253726','923461253726']  // available soon
+global.premium = ['916900******','917355******']  // available soon
 
-global.sudo = ['923461253726','923461253726']  // Co - Owners //
+global.sudo = ['916900******','917355******']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
@@ -58,16 +58,15 @@ name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
 
-footer1 = ` `
+footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 
-footer2 =` `
+footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
 
-nikalmsg1 = 'Kis ko Bol Raha Hai Pata Hai Mein kon Hu DevBaloch Mera Name hai' 
+nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
 
- 
-nikalmsg2 = 'Abey dil se bura lagta hai bhai 😂.'
+nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
 
 //--------Random Tag msg--------\\
 
@@ -97,7 +96,7 @@ global.mess = {
 
     admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑", // User "\n" for change the line 
 
-    botAdmin: 'Pihle Mujhi Admin Karo',
+    botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
 
     owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
 
@@ -105,13 +104,13 @@ global.mess = {
 
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
 
-    bot: "Ye Sirf BOT Karskta Hai App Nahi",
+    bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
 
-    wait: "Mein Search Kar Rha Hu App Tab Tak Face Mask😁 Karo",
+    wait: "I'm progressing your command baby❤️, Please wait......",
 
-    linkm: 'Link Deleted Karo Yar?',
+    linkm: 'Abey where is the link...?',
 
-    error: 'Mere Ko Nahi Mila ',
+    error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
 
     sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
 
@@ -121,29 +120,29 @@ global.mess = {
 
     nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
 
-    banChat: 'Mera Bot Banned Hugya Hai!, App  Dosre Number Par Baat Karr.'
+    banChat: 'The bot was banned 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽!, please contact the owner to unban.'
 
 }
 
 //--------------- Menu images ----------------\\
 
-global.Menuimage = fs.readFileSync("https://i.imgur.com/0IAv7Lk.jpeg")
+global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
 
-global.thumnnaiIs = fs.readFileSync("https://i.imgur.com/0IAv7Lk.jpeg")
+global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemjc Function --------------\\
 
 global.autoTyping = false 
 
-global.autoreadpmngc = true 
+global.autoreadpmngc = false 
 
-global.autoReadGc = true 
+global.autoReadGc = false 
 
-global.autoRecord = true 
+global.autoRecord = false 
 
 global.available = true
 
-global.autoTyping = true 
+global.autoTyping = false 
 
 //----------- Users Userlimit -----------\\
 
@@ -161,9 +160,7 @@ let file = require.resolve(__filename)
 
 fs.watchFile(file, () => {
 
-	fs.unwatchFile(file)
-
-	console.log(chalk.redBright(`Update'${__filename}'`))
+	fs.unwatchFile(file)	console.log(chalk.redBright(`Update'${__filename}'`))
 
 	delete require.cache[file]
 
