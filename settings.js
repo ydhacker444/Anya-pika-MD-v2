@@ -20,7 +20,7 @@ global.DocumentTitle = "MASTER⚔️PIKA"
 
 global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
 
-global.ownernumber = ['916900904828'] 
+global.ownernumber = ['+94722741264'] 
 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 
@@ -42,9 +42,9 @@ global.email = "example@exmaple.com" // put your email here
 
 //------------ 🌟 Premium Users 🌟-------------\\
 
-global.premium = ['916900******','917355******']  // available soon
+global.premium = ['94722741264','94722741264']  // available soon
 
-global.sudo = ['916900******','917355******']  // Co - Owners //
+global.sudo = ['94722741264','942741264']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
@@ -132,17 +132,17 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemjc Function --------------\\
 
-global.autoTyping = false 
+global.autoTyping = true 
 
 global.autoreadpmngc = false 
 
-global.autoReadGc = false 
+global.autoReadGc = true 
 
 global.autoRecord = false 
 
 global.available = true
 
-global.autoTyping = false 
+global.autoTyping = true 
 
 //----------- Users Userlimit -----------\\
 
